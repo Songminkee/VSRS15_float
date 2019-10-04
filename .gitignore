@@ -1,0 +1,5 @@
+*.yuv
+camera_parameter_files/
+opencv34/
+*.cfg
+*.txt
